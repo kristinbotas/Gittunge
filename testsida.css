@@ -1,0 +1,19 @@
+body {
+		background: yellow;
+		padding-left: 10px;
+		padding-right: 10px;
+}
+.column1 {
+		background: red;
+}
+.column2 {
+		background: white;
+}
+.column3 {
+		background: green;
+}
+h3 {
+	font-size: 12pt;
+	color: purple;
+
+}
